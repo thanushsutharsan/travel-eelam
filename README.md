@@ -43,4 +43,22 @@ The content of the website is relevant and appropriate as it visually shows the 
   - Users need the website to work well across all devices.
   - Users should be able to quickly learn and explore without feeling overwhelmed.
 
+### Scope
+
+#### MVP -(Minimum Viable Product)
+- Must have an introduction to the website and the  homepage should have a hero image with a navbar at the top. (Home)
+- Must have a gallery page showcasing the culture, food and landmarks using FlexBox (at minimum of 8 images) this will be the second nav-bar on the top after home. (Gallery)
+- Must have a sign-up page using a simple form and this should be linked to the third navbar on the top.(Sign-up)
+- Must have a footer at the bottom including social links. (Footer)
+
+
+
+#### Future developments
+- It will have a map for the key places individually rather than the standard click-on the image and you'll be directed towards the place.
+
+- It will have an interactive gallery ie. allowing the users to manually click the image by image basis. 
+
+
+
+
 
