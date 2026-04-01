@@ -21,7 +21,7 @@ This website is designed to provide users with a simple and visual representatio
 
 The purpose of my design is to allow users to easily navigate through the website and gain insights into Tamil Eelam heritage while maintaining a clear and concise visual layout.
 
-### Strategy
+### I. Strategy
 #### Target audience
 This website is for people interested in travelling around the world, learning different cultures as well as the Tamil community who may not be aware of their heritage, allowing them to reconnect with their roots and to be proud of who they are.
 
@@ -43,7 +43,7 @@ The content of the website is relevant and appropriate as it visually shows the 
   - Users need the website to work well across all devices.
   - Users should be able to quickly learn and explore without feeling overwhelmed.
 
-### Scope
+### II. Scope
 
 #### MVP -(Minimum Viable Product)
 - Must have an introduction to the website and the  homepage should have a hero image with a navbar at the top. (Home)
@@ -57,6 +57,24 @@ The content of the website is relevant and appropriate as it visually shows the 
 - It will have a map for the key places individually rather than the standard click-on the image and you'll be directed towards the place.
 
 - It will have an interactive gallery ie. allowing the users to manually click the image by image basis. 
+
+### III. Structure
+
+#### Information Architecture & Logical Organisation of Features
+1.  Homepage (index.html) - Hero Image, Introduction, CTA (Call to Action)
+2. Gallery Page (gallery.html) - Images of culture, food and landmarks.
+3. Sign-Up (signup.html) - A form to sign-up to the monthly newsletter.
+4. Footer - Social links.
+
+#### User Flow
+
+1. Users open the Home Page and see the hero image with title Travel Eelam, then a brief introduction and a CTA button of view the gallery.
+2. Users click the CTA button which directs them towards the gallery page or click on the gallery nav bar to browse images of Eelam culture food and landmarks.
+3. Users can click the sign up page link in the nav-bar.
+
+
+
+
 
 
 
