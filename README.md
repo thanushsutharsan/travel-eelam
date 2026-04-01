@@ -7,3 +7,6 @@ This website is a travel showcase and guide of my roots, inspired by where my pa
 - Git/GitHub
 - VsCode
 - Bootstrap
+
+## How to View the Project
+- [View the deployed website](https://thanushsutharsan.github.io/travel-eelam/)
