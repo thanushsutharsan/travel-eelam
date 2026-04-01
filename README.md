@@ -10,3 +10,13 @@ This website is a travel showcase and guide of my roots, inspired by where my pa
 
 ## How to View the Project
 - [View the deployed website](https://thanushsutharsan.github.io/travel-eelam/)
+
+## User Experience Design (UXD)
+
+### Overview
+
+This website is designed to provide users with a simple and visual representation of Eelam focusing on culture, food and landmarks.
+
+### Purpose
+
+The purpose of my design is to allow users to easily naviagte through the website and gain insights into Tamil Eelam heritage while maintaining a clear and concise visual layout.
