@@ -46,7 +46,7 @@ The content of the website is relevant and appropriate as it visually shows the 
 ### II. Scope
 
 #### MVP -(Minimum Viable Product)
-- Must have an introduction to the website and the  homepage should have a hero image with a navbar at the top. (Home)
+- Must have an introduction to the website with a carousel of images showing top featured images and the  homepage should have a hero image with a navbar at the top. (Home)
 - Must have a gallery page showcasing the culture, food and landmarks using FlexBox (at minimum of 8 images) this will be the second nav-bar on the top after home. (Gallery)
 - Must have a sign-up page using a simple form and this should be linked to the third navbar on the top.(Sign-up)
 - Must have a footer at the bottom including social links. (Footer)
@@ -61,16 +61,20 @@ The content of the website is relevant and appropriate as it visually shows the 
 ### III. Structure
 
 #### Information Architecture & Logical Organisation of Features
-1.  Homepage (index.html) - Hero Image, Introduction, CTA (Call to Action)
+1.  Homepage (index.html) - Logo, Hero Image, Introduction, Carousel, Two CTA (Call to Action Button)
 2. Gallery Page (gallery.html) - Images of culture, food and landmarks.
-3. Sign-Up (signup.html) - A form to sign-up to the monthly newsletter.
+3. Sign-Up (signup.html) - A form to sign-up to the monthly newsletter with an image behind it.
 4. Footer - Social links.
 
 #### User Flow
 
-1. Users open the Home Page and see the hero image with title Travel Eelam, then a brief introduction and a CTA button of view the gallery.
+1. Users open the Home Page and see the hero image, then a brief introduction and a CTA button of view the gallery & signup.
 2. Users click the CTA button which directs them towards the gallery page or click on the gallery nav bar to browse images of Eelam culture food and landmarks.
-3. Users can click the sign up page link in the nav-bar.
+3. Users can click the sign up page link in the nav-bar or CTA in the homepage.
+
+### IV. Skeleton
+#### 
+
 
 
 
