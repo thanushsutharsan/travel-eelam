@@ -73,7 +73,61 @@ The content of the website is relevant and appropriate as it visually shows the 
 3. Users can click the sign up page link in the nav-bar or CTA in the homepage.
 
 ### IV. Skeleton
-#### 
+- Wireframes were used to plan each page and give clear visual structure before deploymemt.
+- **NOTE**: Some elements are subject to change like the gallery layout as the final images are no available yet. The layout will be ajusted to improve visual appearance across all devices.
+- Changes will be recorded with screenshots during the testing stage to show the improvements from the original wire frames designed.
+
+#### Homepage Layout
+![Homepage Wireframe](assets/wireframes/home-wireframes.png)
+
+- Header: Logo on the left and navigation on the right 
+     - Hamburger Menu on mobile.
+     - Full Navigation on larger screens.
+
+- Hero Section: Large hero image.
+
+- Introduction: Short description of the website.
+
+- Featured section:
+   - Featured Top Picks Title.
+   - Carousel Beneath the title.
+
+- CTA Buttons (Call to action) :
+   - Explore Gallery
+   - Signup
+
+- Footer: Social media links
+
+
+#### Gallery Page Layout
+![Gallery Wireframe](assets/wireframes/gallery-wireframes.png)
+
+- Header: Same as homepage.
+- Main content: Image galllery (Culture,Food,Landmarks) using flexbox to style content.
+- Footer: Same as homepage.
+
+
+#### Signup Page Layout
+![Signup Wireframe](assets/wireframes/sign-up-wireframes.png)
+
+- Header: Same as homepage.
+- Main Content: Image behind a form box/page including input and submit button using flexbox to style the form.
+- Footer: Same as homepage.
+
+
+#### Design Points
+
+1. Consistent layout across all pages.
+2. Responsive design for mobile, tablet and desktop.
+3. Clear placements of buttons, carousel and form for useability.
+4. Clear and easy navigation.
+
+### V. Surface
+
+
+
+
+
 
 
 
