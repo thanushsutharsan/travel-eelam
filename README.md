@@ -9,7 +9,8 @@ This website is a travel showcase and guide of my roots, inspired by where my pa
 - Bootstrap
 
 ## How to View the Project
-- [View the deployed website](https://thanushsutharsan.github.io/travel-eelam/)
+- This website is currently under development. The deployed version will be continue to be updated as features are implemented.
+  - [View the deployed website HERE](https://thanushsutharsan.github.io/travel-eelam/)
 
 ## User Experience Design (UXD)
 
