@@ -124,8 +124,56 @@ The content of the website is relevant and appropriate as it visually shows the 
 
 ### V. Surface
 
-#### Colors Scheme
+#### 1. Colors Scheme
 ![Color-Palette](assets/images/travel-eelam-colors.png)
+
+The color scheme for my website was chosen from a color palette using [Coolors](https://coolors.co/f5f5f5-f66c0e-7a1a1a-ff0000-ffa500).
+Throughout my site, I will maintain a consistent and visually appealing color scheme. The colors reflect the warmth and culture of Tamil Eelam.
+
+- **White Smoke** - #F5F5F5 (Body background)- I chose this to keep the website clean, simple, and easy to read for users.
+- **Pumpkin Spice** - #F66C0E (Introduction section background)- I chose this to make a visually strong first impression and to grab users attention immediately.
+- **Dark Wine** - #7A1A1A (Featured/Carousel background) - I chose this to add depth to the design and help the images in the carousel pop out more.
+- **Bright Red** - #FF0000 (Active Navigation element )- I chose this to clearly show which pages users are on which enhances user experience.
+- **Orange** - #FFA500 (Hover state for the Navigation links & CTA buttons)-  I chose this to provide users with clear feedback on interactive elements and for CTA buttons to create a strong visual contrast.
+
+- Text Colors:
+   - Black : #000000
+   - White : #FFFFFF
+   
+   The text colors in accordance to the background so that it is user-friendly.
+
+#### 2. Typography
+
+- Main Font: Lexend
+   - I chose this font primarily because it is known to be more accessesible and easier to read compared to other fonts for all users including for people with reading difficulties.
+
+- Fall-back Font: Sans-serif
+    -  I chose this font to fall back on as it ensures content remains readable if the main font fails to load.
+
+#### 3. Images and Visuals
+ 
+ The images showcased on my website focus on culture,food and landmarks linking the purpose of the site.  Each image will have an alt tag to ensure users get better experience even if the image fails to load or for screen readers to be more accessible.
+
+
+ #### 4. Animations and Effects
+
+Simple animations and effects used were learned through course  materials such as the LMS and additional independent research, helping to improve the interactivity and user experience of the website.
+
+
+
+ - **Typewriter Effect**
+    - Users will have an visually engaging element.
+
+- **Carousel Silder**
+   - Users can scroll through the images easily creating an interactive element.
+
+
+- **Hover Effects**
+   - Users will gain visual feedback when they interact with elements eg.navbar.
+
+
+
+
 
 
 
