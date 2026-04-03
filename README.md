@@ -124,6 +124,9 @@ The content of the website is relevant and appropriate as it visually shows the 
 
 ### V. Surface
 
+#### Colors Scheme
+![Color-Palette](assets/images/travel-eelam-colors.png)
+
 
 
 
