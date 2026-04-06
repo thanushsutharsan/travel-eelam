@@ -172,10 +172,96 @@ Simple animations and effects used were learned through course  materials such a
 - **Hover Effects**
    - Users will gain visual feedback when they interact with elements eg.navbar.
 
+## Credits
 
+### Code
 
+- [Bootstrap v5.3](https://getbootstrap.com) - used for the responsive layout components such as the navbar and carousel, with significant customisation.
 
+- [Font Awesome](https://fontawesome.com/) - used for the social media icons in the footer with customisation to the color .
 
+### Media
+ #### Fonts
+ ---
+ -
+ #### Images
+---
+   1. Great Living Chola Temples Under Blue Sky.
+   - Creator : Vigneshkumar S 
+   - Source: http://www.pexels.com/photo/great-living-chola-temples-under-blue-sky-5138790/
+   - Licence : Pexels License (Free to use , no attribution required)
+---
+   2. At Kumana National Park
+   - Creator: Nadarajah Mauran
+   - Source:http://upload.wikimedia.org/wikipedia/commons/a/a5/At_Kumana_National_Park.jpg
+   - License: CC BY-SA 4.0
+
+---
+   3. Nallur Kandaswamy Kovil Gopuram, Jaffna
+   - Creator: Umabathi
+   - Source:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NallurKandaswamyKovilGopuram.jpg/1280px-NallurKandaswamyKovilGopuram.jpg
+   - License: CC BY-SA 3.0
+---
+4. Mannar Fort, Sri-Lanka
+- Creator: David Stanley
+- Source:http://upload.wikimedia.org/wikipedia/commons/a/a8/Mannar_Fort_%2843350481210%29.jpg
+- License: CC BY 2.0
+---
+5. Mullivaikkal Memorial, Jaffna
+- Creator: Tamil Youth Org
+- Source:http://commons.wikimedia.org/wiki/File:Mullivaikkal_memorial_Jaffna_prior_to_distruction.png
+- License: CC0 (Public Domain)
+---
+6. Kaniya Hot Springs, Sri-Lanka
+- Creator: K. Shayanthan
+- Source: http://commons.wikimedia.org/wiki/File:Kanniya_hot_springs.jpg
+- License:CC BY-SA 4.0
+---
+7. South Asian Pregnant Woman being blessed 
+- Creator: Ali Photographer
+- Source:http://www.pexels.com/photo/south-asian-bride-during-pre-wedding-ritual-29226150/
+- License: Pexels License (free to use, no attribution required)
+---
+8. Women in Traditional Clothes Dancing
+- Creator:Jidev Mohan
+- Source: http://www.pexels.com/photo/woman-in-traditional-clothes-dancing-14469571/
+- License: Pexels License (Free to use, no attribution required)
+---
+9. Bunnis Auto Food (Photo From TikTok Food Video)
+- Creator: Original Creator on TikTok @dilanni.k
+- Source: http://vm.tiktok.com/ZNRX4DrUA/
+- Usage: Educational Purposes Only
+---
+10. Traditonal Pongal Festival Ritual with a pot
+- Creator: Narasimhan AVPL
+- Source:http://www.pexels.com/photo/traditional-pongal-festival-ritual-with-pot-30519624/
+- License: Pexels License (free to use, no attribution required)
+---
+11. Coconut Vendor Preparing Fresh Coconut Outdoors
+- Creator: Anurag Gusain
+- Source:http://www.pexels.com/photo/coconut-vendor-preparing-fresh-coconuts-outdoors-31919226/
+- License: Pexels License (free to use, no attribution required) 
+---
+12. Woman Wearing Traditional Jewellery
+- Creator: Adhwaith Chandran
+- Source: http://www.pexels.com/photo/woman-wearing-indian-traditional-jewelry-15586068/
+- License: Pexels License (free to use, no attribution required) 
+---
+13. Close-up thaali shot
+- Creator: BANU FILM ADS
+- Source: http://www.pexels.com/photo/close-up-mangalsutra-on-a-coconut-during-a-traditional-south-indian-wedding-ceremony-27060278/
+- License: Pexels License (free to use, no attribution required)
+---
+14. Mango Cut-up
+- Creator: SHVETS Production
+- Source: http://www.pexels.com/photo/17104940/
+- License:Pexels License (free to use, no attribution required)
+
+---
+15. Milo (Photo from TikTok video)
+- Creator: Original creator on TikTok @shanjixr
+- Source: http://vm.tiktok.com/ZNRX4kgva/
+- Usage: Educational Purposes Only
 
 
 
