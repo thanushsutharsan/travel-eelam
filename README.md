@@ -1,7 +1,11 @@
 # Travel Eelam Website
-##  Description
-This website is a travel showcase and guide of my roots, inspired by where my parents were brought up and raised. Each day, I feel so proud to be a part of the Tamil Eelam heritage from the culture to the places and the food. It is an amazing country that is worth the visit. This website is developed and designed for people who want to visit Eelam and learn about our culture,foods and landmarks that still exist today. 
+
+## Description
+
+This website is a travel showcase and guide of my roots, inspired by where my parents were brought up and raised. Each day, I feel so proud to be a part of the Tamil Eelam heritage from the culture to the places and the food. It is an amazing country that is worth the visit. This website is developed and designed for people who want to visit Eelam and learn about our culture,foods and landmarks that still exist today.
+
 ### Technologies Used
+
 - HTML
 - CSS
 - Git/GitHub
@@ -9,6 +13,7 @@ This website is a travel showcase and guide of my roots, inspired by where my pa
 - Bootstrap
 
 ## How to View the Project
+
 - This website is currently under development. The deployed version will be continue to be updated as features are implemented.
   - [View the deployed website HERE](https://thanushsutharsan.github.io/travel-eelam/)
 
@@ -23,49 +28,54 @@ This website is designed to provide users with a simple and visual representatio
 The purpose of my design is to allow users to easily navigate through the website and gain insights into Tamil Eelam heritage while maintaining a clear and concise visual layout.
 
 ### I. Strategy
+
 #### Target audience
+
 This website is for people interested in travelling around the world, learning different cultures as well as the Tamil community who may not be aware of their heritage, allowing them to reconnect with their roots and to be proud of who they are.
 
 #### Content
+
 The content of the website is relevant and appropriate as it visually shows the culture,food and landmarks of Tamil Eelam via the gallery. Images make the content more engaging as it gives it more visual understanding rather than text overload which enhances user experience eg. so users feel less overwhelmed.
 
 #### Problems and Solutions
- One of the problems users face when hearing about Tamil Eelam is that they almost mistake it for India or they just hear that it is an awful place with a lot of slumy areas. This can put a full stop to the users wanting to read about our culture and heritage.
 
- To solve this, I have decided to develop this website showing a more of a accurate and positive representation of what Eelam is.
+One of the problems users face when hearing about Tamil Eelam is that they almost mistake it for India or they just hear that it is an awful place with a lot of slumy areas. This can put a full stop to the users wanting to read about our culture and heritage.
 
- #### Business Goals
+To solve this, I have decided to develop this website showing a more of a accurate and positive representation of what Eelam is.
 
- The key concept of the business goal is to create an awareness to the Tamil community and any other users visiting the website to explore and expand their knowledge about Tamil Eelam heritage.
- 
+#### Business Goals
 
- #### User Needs
-  - Users should be able to move through sections easily through home > gallery > signup.
-  - Users need the website to work well across all devices.
-  - Users should be able to quickly learn and explore without feeling overwhelmed.
+The key concept of the business goal is to create an awareness to the Tamil community and any other users visiting the website to explore and expand their knowledge about Tamil Eelam heritage.
+
+#### User Needs
+
+- Users should be able to move through sections easily through home > gallery > signup.
+- Users need the website to work well across all devices.
+- Users should be able to quickly learn and explore without feeling overwhelmed.
 
 ### II. Scope
 
 #### MVP -(Minimum Viable Product)
-- Must have an introduction to the website with a carousel of images showing top featured images and the  homepage should have a hero image with a navbar at the top. (Home)
+
+- Must have an introduction to the website with a carousel of images showing top featured images and the homepage should have a hero image with a navbar at the top. (Home)
 - Must have a gallery page showcasing the culture, food and landmarks using FlexBox (at minimum of 8 images) this will be the second nav-bar on the top after home. (Gallery)
 - Must have a sign-up page using a simple form and this should be linked to the third navbar on the top.(Sign-up)
 - Must have a footer at the bottom including social links. (Footer)
 
-
-
 #### Future developments
+
 - It will have a map for the key places individually rather than the standard click-on the image and you'll be directed towards the place.
 
-- It will have an interactive gallery ie. allowing the users to manually click the image by image basis. 
+- It will have an interactive gallery ie. allowing the users to manually click the image by image basis.
 
 ### III. Structure
 
 #### Information Architecture & Logical Organisation of Features
+
 1.  Homepage (index.html) - Logo, Hero Image, Introduction, Carousel, Two CTA (Call to Action Button)
-2. Gallery Page (gallery.html) - Images of culture, food and landmarks.
-3. Sign-Up (signup.html) - A form to sign-up to the monthly newsletter with an image behind it.
-4. Footer - Social links.
+2.  Gallery Page (gallery.html) - Images of culture, food and landmarks.
+3.  Sign-Up (signup.html) - A form to sign-up to the monthly newsletter with an image behind it.
+4.  Footer - Social links.
 
 #### User Flow
 
@@ -74,47 +84,48 @@ The content of the website is relevant and appropriate as it visually shows the 
 3. Users can click the sign up page link in the nav-bar or CTA in the homepage.
 
 ### IV. Skeleton
+
 - Wireframes were used to plan each page and give clear visual structure before deploymemt.
 - **NOTE**: Some elements are subject to change like the gallery layout as the final images are no available yet. The layout will be ajusted to improve visual appearance across all devices.
 - Changes will be recorded with screenshots during the testing stage to show the improvements from the original wire frames designed.
 
 #### Homepage Layout
+
 ![Homepage Wireframe](assets/wireframes/home-wireframes.png)
 
-- Header: Logo on the left and navigation on the right 
-     - Hamburger Menu on mobile.
-     - Full Navigation on larger screens.
+- Header: Logo on the left and navigation on the right
+  - Hamburger Menu on mobile.
+  - Full Navigation on larger screens.
 
 - Hero Section: Large hero image.
 
 - Introduction: Short description of the website.
 
 - Featured section:
-   - Featured Top Picks Title.
-   - Carousel Beneath the title.
+  - Featured Top Picks Title.
+  - Carousel Beneath the title.
 
 - CTA Buttons (Call to action) :
-   - Explore Gallery
-   - Signup
+  - Explore Gallery
+  - Signup
 
 - Footer: Social media links
 
-
 #### Gallery Page Layout
+
 ![Gallery Wireframe](assets/wireframes/gallery-wireframes.png)
 
 - Header: Same as homepage.
 - Main content: Image galllery (Culture,Food,Landmarks) using flexbox to style content.
 - Footer: Same as homepage.
 
-
 #### Signup Page Layout
+
 ![Signup Wireframe](assets/wireframes/sign-up-wireframes.png)
 
 - Header: Same as homepage.
 - Main Content: Image behind a form box/page including input and submit button using flexbox to style the form.
 - Footer: Same as homepage.
-
 
 #### Design Points
 
@@ -126,6 +137,7 @@ The content of the website is relevant and appropriate as it visually shows the 
 ### V. Surface
 
 #### 1. Colors Scheme
+
 ![Color-Palette](assets/images/travel-eelam-colors.png)
 
 The color scheme for my website was chosen from a color palette using [Coolors](https://coolors.co/f5f5f5-f66c0e-7a1a1a-ff0000-ffa500).
@@ -135,42 +147,37 @@ Throughout my site, I will maintain a consistent and visually appealing color sc
 - **Pumpkin Spice** - #F66C0E (Introduction section background)- I chose this to make a visually strong first impression and to grab users attention immediately.
 - **Dark Wine** - #7A1A1A (Featured/Carousel background) - I chose this to add depth to the design and help the images in the carousel pop out more.
 - **Bright Red** - #FF0000 (Active Navigation element )- I chose this to clearly show which pages users are on which enhances user experience.
-- **Orange** - #FFA500 (Hover state for the Navigation links & CTA buttons)-  I chose this to provide users with clear feedback on interactive elements and for CTA buttons to create a strong visual contrast.
+- **Orange** - #FFA500 (Hover state for the Navigation links & CTA buttons)- I chose this to provide users with clear feedback on interactive elements and for CTA buttons to create a strong visual contrast.
 
 - Text Colors:
-   - Black : #000000
-   - White : #FFFFFF
-   
-   The text colors in accordance to the background so that it is user-friendly.
+  - Black : #000000
+  - White : #FFFFFF
+  The text colors in accordance to the background so that it is user-friendly.
 
 #### 2. Typography
 
 - Main Font: Lexend
-   - I chose this font primarily because it is known to be more accessesible and easier to read compared to other fonts for all users including for people with reading difficulties.
+  - I chose this font primarily because it is known to be more accessesible and easier to read compared to other fonts for all users including for people with reading difficulties.
 
 - Fall-back Font: Sans-serif
-    -  I chose this font to fall back on as it ensures content remains readable if the main font fails to load.
+  - I chose this font to fall back on as it ensures content remains readable if the main font fails to load.
 
 #### 3. Images and Visuals
- 
- The images showcased on my website focus on culture,food and landmarks linking the purpose of the site.  Each image will have an alt tag to ensure users get better experience even if the image fails to load or for screen readers to be more accessible.
 
+The images showcased on my website focus on culture,food and landmarks linking the purpose of the site. Each image will have an alt tag to ensure users get better experience even if the image fails to load or for screen readers to be more accessible.
 
- #### 4. Animations and Effects
+#### 4. Animations and Effects
 
-Simple animations and effects used were learned through course  materials such as the LMS and additional independent research, helping to improve the interactivity and user experience of the website.
+Simple animations and effects used were learned through course materials such as the LMS and additional independent research, helping to improve the interactivity and user experience of the website.
 
-
-
- - **Typewriter Effect**
-    - Users will have an visually engaging element.
+- **Typewriter Effect**
+  - Users will have an visually engaging element.
 
 - **Carousel Silder**
-   - Users can scroll through the images easily creating an interactive element.
-
+  - Users can scroll through the images easily creating an interactive element.
 
 - **Hover Effects**
-   - Users will gain visual feedback when they interact with elements eg.navbar.
+  - Users will gain visual feedback when they interact with elements eg.navbar.
 
 ## Credits
 
@@ -181,98 +188,131 @@ Simple animations and effects used were learned through course  materials such a
 - [Font Awesome](https://fontawesome.com/) - used for the social media icons in the footer with customisation to the color .
 
 ### Media
- #### Fonts
- ---
- -
- #### Images
----
-   1. Great Living Chola Temples Under Blue Sky.
-   - Creator : Vigneshkumar S 
-   - Source: http://www.pexels.com/photo/great-living-chola-temples-under-blue-sky-5138790/
-   - Licence : Pexels License (Free to use , no attribution required)
----
-   2. At Kumana National Park
-   - Creator: Nadarajah Mauran
-   - Source:http://upload.wikimedia.org/wikipedia/commons/a/a5/At_Kumana_National_Park.jpg
-   - License: CC BY-SA 4.0
+
+#### Fonts
 
 ---
-   3. Nallur Kandaswamy Kovil Gopuram, Jaffna
-   - Creator: Umabathi
-   - Source:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NallurKandaswamyKovilGopuram.jpg/1280px-NallurKandaswamyKovilGopuram.jpg
-   - License: CC BY-SA 3.0
+
+-
+
+#### Images
+
 ---
+
+1.  Great Living Chola Temples Under Blue Sky.
+
+- Creator : Vigneshkumar S
+- Source: http://www.pexels.com/photo/great-living-chola-temples-under-blue-sky-5138790/
+- Licence : Pexels License (Free to use , no attribution required)
+
+---
+
+2.  At Kumana National Park
+
+- Creator: Nadarajah Mauran
+- Source:http://upload.wikimedia.org/wikipedia/commons/a/a5/At_Kumana_National_Park.jpg
+- License: CC BY-SA 4.0
+
+---
+
+3.  Nallur Kandaswamy Kovil Gopuram, Jaffna
+
+- Creator: Umabathi
+- Source:http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NallurKandaswamyKovilGopuram.jpg/1280px-NallurKandaswamyKovilGopuram.jpg
+- License: CC BY-SA 3.0
+
+---
+
 4. Mannar Fort, Sri-Lanka
+
 - Creator: David Stanley
 - Source:http://upload.wikimedia.org/wikipedia/commons/a/a8/Mannar_Fort_%2843350481210%29.jpg
 - License: CC BY 2.0
+
 ---
+
 5. Mullivaikkal Memorial, Jaffna
+
 - Creator: Tamil Youth Org
 - Source:http://commons.wikimedia.org/wiki/File:Mullivaikkal_memorial_Jaffna_prior_to_distruction.png
 - License: CC0 (Public Domain)
+
 ---
+
 6. Kaniya Hot Springs, Sri-Lanka
+
 - Creator: K. Shayanthan
 - Source: http://commons.wikimedia.org/wiki/File:Kanniya_hot_springs.jpg
 - License:CC BY-SA 4.0
+
 ---
-7. South Asian Pregnant Woman being blessed 
+
+7. South Asian Pregnant Woman being blessed
+
 - Creator: Ali Photographer
 - Source:http://www.pexels.com/photo/south-asian-bride-during-pre-wedding-ritual-29226150/
 - License: Pexels License (free to use, no attribution required)
+
 ---
+
 8. Women in Traditional Clothes Dancing
+
 - Creator:Jidev Mohan
 - Source: http://www.pexels.com/photo/woman-in-traditional-clothes-dancing-14469571/
 - License: Pexels License (Free to use, no attribution required)
+
 ---
+
 9. Bunnis Auto Food (Photo From TikTok Food Video)
+
 - Creator: Original Creator on TikTok @dilanni.k
 - Source: http://vm.tiktok.com/ZNRX4DrUA/
 - Usage: Educational Purposes Only
+
 ---
+
 10. Traditonal Pongal Festival Ritual with a pot
+
 - Creator: Narasimhan AVPL
 - Source:http://www.pexels.com/photo/traditional-pongal-festival-ritual-with-pot-30519624/
 - License: Pexels License (free to use, no attribution required)
+
 ---
+
 11. Coconut Vendor Preparing Fresh Coconut Outdoors
+
 - Creator: Anurag Gusain
 - Source:http://www.pexels.com/photo/coconut-vendor-preparing-fresh-coconuts-outdoors-31919226/
-- License: Pexels License (free to use, no attribution required) 
+- License: Pexels License (free to use, no attribution required)
+
 ---
+
 12. Woman Wearing Traditional Jewellery
+
 - Creator: Adhwaith Chandran
 - Source: http://www.pexels.com/photo/woman-wearing-indian-traditional-jewelry-15586068/
-- License: Pexels License (free to use, no attribution required) 
+- License: Pexels License (free to use, no attribution required)
+
 ---
+
 13. Close-up thaali shot
+
 - Creator: BANU FILM ADS
 - Source: http://www.pexels.com/photo/close-up-mangalsutra-on-a-coconut-during-a-traditional-south-indian-wedding-ceremony-27060278/
 - License: Pexels License (free to use, no attribution required)
+
 ---
+
 14. Mango Cut-up
+
 - Creator: SHVETS Production
 - Source: http://www.pexels.com/photo/17104940/
 - License:Pexels License (free to use, no attribution required)
 
 ---
+
 15. Milo (Photo from TikTok video)
+
 - Creator: Original creator on TikTok @shanjixr
 - Source: http://vm.tiktok.com/ZNRX4kgva/
 - Usage: Educational Purposes Only
-
-
-
-
-
-
-
-
-
-
-
-
-
-
