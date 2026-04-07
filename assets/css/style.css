@@ -17,6 +17,8 @@ body {
 .typewriter {
     display:flex;
     justify-content: center;
+    margin-top: 20px;
+
 }
 .typewriter h1 {
     text-align: center;
