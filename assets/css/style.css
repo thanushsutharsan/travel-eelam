@@ -41,3 +41,10 @@ body {
 @keyframes blink {
     50% { border-color: transparent; }
 }
+/* Intro subtext */
+.intro-sub-text {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 20px;  
+    padding: 0 20px;
+}
