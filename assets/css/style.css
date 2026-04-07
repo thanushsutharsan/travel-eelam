@@ -4,8 +4,9 @@
 body {
     font-family: 'Lexend', sans-serif;
     background-color: whitesmoke;
-    color: #333;  
+    color: #333;
 }
+
 /* Logo */
 #mainlogo {
     width: 100px;
@@ -28,12 +29,13 @@ body {
 
 /* Typewriter effect */
 .typewriter {
-    display:flex;
+    display: flex;
     justify-content: center;
-    margin-top:0;
-   
+    margin-top: 0;
+
 
 }
+
 .typewriter h1 {
     text-align: center;
     padding: 20px 10px;
@@ -47,24 +49,33 @@ body {
 
 /* Typing animation */
 @keyframes typing {
-    from { width:0;}
-    to { width: 100%; }
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
 }
 
 /* Blinking cursor animation */
 @keyframes blink {
-    50% { border-color: transparent; }
+    50% {
+        border-color: transparent;
+    }
 }
+
 /* Intro subtext */
 .intro-sub-text {
     text-align: center;
     font-size: 1rem;
-    margin-top: 20px;  
+    margin-top: 20px;
     padding: 0 20px;
 }
+
 /* Intro backdrop */
 
 #bk-drop {
-  background-color: #FFA500;
-   width: 100%;
+    background-color: #FFA500;
+    width: 100%;
 }
