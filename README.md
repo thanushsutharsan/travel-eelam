@@ -160,7 +160,7 @@ The key concept of the business goal is to create an awareness to the Tamil comm
 
 ![Color-Palette](assets/images/travel-eelam-color-palette.png)
 
-The color scheme for my website was chosen from a color palette using [Coolors](https://coolors.co/f5f5f5-f66c0e-7a1a1a-ff0000-ffa500).
+The color scheme for my website was chosen from a color palette using [Coolors](https://coolors.co/f5f5f5-7a1a1a-ff0000-ffa500).
 Throughout my site, I will maintain a consistent and visually appealing color scheme. The colors reflect the warmth and culture of Tamil Eelam.
 
 - **White Smoke** - #F5F5F5 (Navbar/Footer)- I chose this to keep the website clean, simple, and easy to read for users.
