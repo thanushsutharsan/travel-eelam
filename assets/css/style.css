@@ -3,7 +3,7 @@
 
 body {
     font-family: 'Lexend', sans-serif;
-    background-color: whitesmoke;
+    background-color: #7A1A1A;
     color: #333;
 }
 
@@ -83,6 +83,5 @@ body {
 /* Featured section */
 
 #featured {
-    background-color:#7A1A1A ;
-    color: white;
+     color: white;
 }
