@@ -79,3 +79,10 @@ body {
     background-color: #FFA500;
     width: 100%;
 }
+
+/* Featured section */
+
+#featured {
+    background-color:#7A1A1A ;
+    color: white;
+}
