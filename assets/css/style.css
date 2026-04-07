@@ -11,6 +11,19 @@ body {
     width: 100px;
     max-width: 75%;
 }
+
+/* Navabr styles */
+
+/* Navbar active element */
+.navbar .active {
+    border-bottom: 3px solid #FF0000;
+}
+
+/* Hover effect for the navbar */
+#menu .nav-link:hover {
+    border-bottom: 3px solid #FFA500;
+}
+
 /* Intro section */
 
 /* Typewriter effect */
