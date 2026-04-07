@@ -22,6 +22,7 @@ body {
 }
 .typewriter h1 {
     text-align: center;
+    padding: 20px 10px;
     font-size: 1.5rem;
     margin-inline: 0;
     overflow: hidden;
