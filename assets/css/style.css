@@ -6,3 +6,8 @@ body {
     background-color: whitesmoke;
     color: #333;  
 }
+/* Logo */
+#mainlogo {
+    width: 100px;
+    max-width: 75%;
+}
