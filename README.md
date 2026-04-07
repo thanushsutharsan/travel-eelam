@@ -152,7 +152,7 @@ Throughout my site, I will maintain a consistent and visually appealing color sc
 - Text Colors:
   - Black : #000000
   - White : #FFFFFF
-  The text colors in accordance to the background so that it is user-friendly.
+    The text colors in accordance to the background so that it is user-friendly.
 
 #### 2. Typography
 
@@ -179,17 +179,14 @@ Simple animations and effects used were learned through course materials such as
 - **Hover Effects**
   - Users will gain visual feedback when they interact with elements eg.navbar.
 
-## Testing  
+## Testing
+
 ### CSS Override Issue
+
 - **Issue** - Custom styles were not displaying correctly.
 - **Cause**- Bootstrap CSS overriding Custom CSS.
 - **Fix** - Re-order the stylesheets from Bootstrap being at the top and custom css being at the. bottom.
 - **Outcome** - Styles are now applied correctly.
-
-
-
-
-
 
 ## Credits
 
