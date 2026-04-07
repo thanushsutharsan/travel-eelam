@@ -17,7 +17,8 @@ body {
 .typewriter {
     display:flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top:0;
+   
 
 }
 .typewriter h1 {
@@ -47,4 +48,10 @@ body {
     font-size: 1rem;
     margin-top: 20px;  
     padding: 0 20px;
+}
+/* Intro backdrop */
+
+#bk-drop {
+  background-color: #FFA500;
+   width: 100%;
 }
