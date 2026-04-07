@@ -179,6 +179,18 @@ Simple animations and effects used were learned through course materials such as
 - **Hover Effects**
   - Users will gain visual feedback when they interact with elements eg.navbar.
 
+## Testing  
+### CSS Override Issue
+- **Issue** - Custom styles were not displaying correctly.
+- **Cause**- Bootstrap CSS overriding Custom CSS.
+- **Fix** - Re-order the stylesheets from Bootstrap being at the top and custom css being at the. bottom.
+- **Outcome** - Styles are now applied correctly.
+
+
+
+
+
+
 ## Credits
 
 ### Code
