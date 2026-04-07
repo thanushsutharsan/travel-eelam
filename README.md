@@ -28,13 +28,15 @@ This website is designed to provide users with a simple and visual representatio
 The purpose of my design is to allow users to easily navigate through the website and gain insights into Tamil Eelam heritage while maintaining a clear and concise visual layout.
 
 ### User Stories
-####  First-Time Visitor
+
+#### First-Time Visitor
 
 - As a first time visitor, I want to learn about Tamil Eelam culture from the introduction section so that I understand what the website is all about.
 - As a first time visitor, I want to view featured landmarks so that I can see important places in Tamil Eelam.
 - As a first time visitor, I want to click the Explore Gallery CTA (Call To Action) Button so that I can easily access and browse a wider collection of images showcasing Eelam.
 
-#### Returning Visitor 
+#### Returning Visitor
+
 - As a returning visitor, I want to browse both food and culture in one placeso that I can easily explore different topics.
 - As a returning visitor, I want to access social media links so that I see more conetnt and updates on Eelam.
 - As a returning visitor, I want to find a way to sign up easily so that I can stay updated/connected.
@@ -44,7 +46,6 @@ The purpose of my design is to allow users to easily navigate through the websit
 - As a frequent visitor, I want to sign up to the website so tha I stay updated with Travel Eelam.
 - As a frequent visitor, I want see consistent layout across all pages so the website easy to navigate around.
 - As a frequent visitor, I want to quickly navigate between pages so that I can use the site efficiently.
-
 
 ### I. Strategy
 
