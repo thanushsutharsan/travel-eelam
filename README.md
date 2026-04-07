@@ -158,16 +158,15 @@ The key concept of the business goal is to create an awareness to the Tamil comm
 
 #### 1. Colors Scheme
 
-![Color-Palette](assets/images/travel-eelam-colors.png)
+![Color-Palette](assets/images/travel-eelam-color-palette.png)
 
 The color scheme for my website was chosen from a color palette using [Coolors](https://coolors.co/f5f5f5-f66c0e-7a1a1a-ff0000-ffa500).
 Throughout my site, I will maintain a consistent and visually appealing color scheme. The colors reflect the warmth and culture of Tamil Eelam.
 
-- **White Smoke** - #F5F5F5 (Body background)- I chose this to keep the website clean, simple, and easy to read for users.
-- **Pumpkin Spice** - #F66C0E (Introduction section background)- I chose this to make a visually strong first impression and to grab users attention immediately.
-- **Dark Wine** - #7A1A1A (Featured/Carousel background) - I chose this to add depth to the design and help the images in the carousel pop out more.
+- **White Smoke** - #F5F5F5 (Navbar/Footer)- I chose this to keep the website clean, simple, and easy to read for users.
+- **Dark Wine** - #7A1A1A (Body background) - I chose this color to create cohesive base for the overall design, adding depth while allowing other elements like images to stand out clearly against it.
 - **Bright Red** - #FF0000 (Active Navigation element )- I chose this to clearly show which pages users are on which enhances user experience.
-- **Orange** - #FFA500 (Hover state for the Navigation links & CTA buttons)- I chose this to provide users with clear feedback on interactive elements and for CTA buttons to create a strong visual contrast.
+- **Orange** - #FFA500 (Hover state for the Navigation links & CTA buttons & introduction section)- I chose this color to provide clear visual feedback on interactive elements,helping users understand when something is clickable. It also creates a strong contrast for CTA buttons to draw attention, while the use im the introduction section helps highlight key content.
 
 - Text Colors:
   - Black : #000000
