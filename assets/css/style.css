@@ -95,3 +95,14 @@ body {
      border-radius: 20px;
      padding: 15px 15px;
 }
+
+/* Footer styles */
+footer li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 1rem;
+    font-size: x-large;
+    
+}
+
