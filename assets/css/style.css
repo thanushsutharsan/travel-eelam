@@ -117,6 +117,17 @@ body {
     Padding: 10px 15px;
 
 }
+
+/* Gallery section */
+ 
+/* Gallery heading styles */
+.gallery-of-eelam {
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFA500;
+    margin-top: 20px;
+}
+
 /* Custom Footer styles */
 
 footer li {
