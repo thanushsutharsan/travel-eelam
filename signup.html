@@ -86,6 +86,58 @@
       </nav>
     </header>
 
+    <!-- Main content-->
+    <section id="signup">
+      <form action="https://formspree.io/f/mlgokezj" method="POST">
+        <h2 class="text-color">Sign Up for Travel Eelam Newsletter</h2>
+
+        <label for="flname">Full Name:</label>
+        <input type="text" id="flname" name="fullname" required />
+        <br />
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+        <br />
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" required />
+        <br />
+
+        <div class="radio-btns">
+          <div>
+            <label for="pref-sms">SMS</label>
+            <input
+              type="radio"
+              id="pref-sms"
+              name="newsletter_preference"
+              value="sms"
+              required
+              checked
+            />
+          </div>
+          <div>
+            <label for="pref-email">Email</label>
+            <input
+              type="radio"
+              id="pref-email"
+              name="newsletter_preference"
+              value="email"
+              required
+            />
+          </div>
+          <div>
+            <label for="pref-both">Both</label>
+            <input
+              type="radio"
+              id="pref-both"
+              name="newsletter_preference"
+              value="both"
+              required
+            />
+          </div>
+        </div>
+        <button type="submit" value="Submit" class="btn-signup">Sign Up</button>
+      </form>
+    </section>
+
     <!-- Footer-->
     <footer class="bg-light text-center py-3">
       <p>&copy; 2026 Travel Eelam. All rights reserved.</p>
