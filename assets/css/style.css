@@ -96,7 +96,28 @@ body {
      padding: 15px 15px;
 }
 
-/* Footer styles */
+/*  Custom Carousel caption background */
+.carousel-caption {
+ color: #333; 
+ padding: 0.5rem;
+
+}
+
+/* Custom background for carousel captions */
+
+.carousel-caption-background {
+    background-color: rgba(255, 249, 249, 0.793);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 2); 
+}
+
+/* Custom styles for the CTA buttons */
+.space-btwn {
+    margin: 0 10px;
+    Padding: 10px 15px;
+
+}
+/* Custom Footer styles */
 
 footer li {
     list-style: none;
