@@ -107,7 +107,7 @@ body {
 .carousel-caption-background {
   background-color: rgba(255, 249, 249, 0.793);
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
 }
 
 /* Custom styles for the CTA buttons */
@@ -162,7 +162,7 @@ body {
   margin-top: 15px;
   padding: 8px 20px;
   font-size: 100%;
-  background-color: #ffa500;
+  background-color: #ffc107;
   border-radius: 7px;
   border: none;
 }
