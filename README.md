@@ -239,7 +239,10 @@ Each page of the live site was tested across different screen sizes and browsers
 |Sign-up Form Input|Users can enter details correctly| PASS| N/A| PASS|
 |CTA Buttons| Directs users to correct pages| PASS| N/A| PASS|
 |Images| No Pixelation or stretching and loads quickly| FAIL|Compressed images|PASS|
-|ALT Text| Visible alt text when images fail to load| Fail|-|-
+|ALT Text| Visible alt text when images fail to load| Fail|Change color of alt text|PASS|
+|Text readability| High contrast and readable content| PASS| N/A| PASS|
+|Bootstrap Components| Carousel and Gallery Layout function correctly|PASS| N/A| PASS|
+|Footer| All social links & copyright info visible and functional displayed at the bottom| FAIL|-|-|
 
 
 

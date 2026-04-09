@@ -12,7 +12,7 @@ body {
   width: 100px;
   max-width: 75%;
 }
-/* Hero image ALT text color */
+/*Hero image ALT text color*/
 #text-color {
   color: white;
 }
@@ -144,6 +144,7 @@ all devices with a consistent height */
   background-position: center; /* Center the background image */
   background-repeat: no-repeat; /* Prevents it from repeating again */
   background-attachment: fixed;
+  height: 100vh; /* Full viewport height */
   
   display: flex;
   flex-direction: column;
