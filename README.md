@@ -168,20 +168,23 @@ This changes ensured the final website maintained a clear structure, consistent 
 
 #### 1. Colors Scheme
 
-![Color-Palette](assets/images/)
+![Color-Palette](assets/images/travel-eelam-color-palette.png)
 
-The color scheme for my website was chosen from a color palette using [Coolors](https://coolors.co/f5f5f5-7a1a1a-ff0000-ffa500).
+The color scheme for my website was chosen from a color palette using [Coolors](https://coolors.co/f5f5f5-7a1a1a-ff0000-ffa500-ffc107).
 Throughout my site, I will maintain a consistent and visually appealing color scheme. The colors reflect the warmth and culture of Tamil Eelam.
 
 - **White Smoke** - #F5F5F5 (Navbar/Footer)- I chose this to keep the website clean, simple, and easy to read for users.
 - **Dark Wine** - #7A1A1A (Body background) - I chose this color to create cohesive base for the overall design, adding depth while allowing other elements like images to stand out clearly against it.
 - **Bright Red** - #FF0000 (Active Navigation element )- I chose this to clearly show which pages users are on which enhances user experience.
-- **Orange** - #FFA500 (Hover state for the Navigation links & CTA buttons & introduction section)- I chose this color to provide clear visual feedback on interactive elements,helping users understand when something is clickable. It also creates a strong contrast for CTA buttons to draw attention, while the use im the introduction section helps highlight key content.
+- **Orange** - #FFA500 (Hover state for the Navigation links & introduction section)- I chose this color to provide clear visual feedback on interactive elements,helping users understand when something is clickable. 
+- **Amber Gold** - #FFC107 (CTA buttons) I chose this to create a strong contrast for CTA buttons to draw users' attention and encourage interactions.
 
 - Text Colors:
   - Black : #000000
   - White : #FFFFFF
-    The text colors in accordance to the background so that it is user-friendly.
+  - Default text - #333
+  
+  The text colors in accordance to the background so that it is user-friendly.
 
 #### 2. Typography
 
