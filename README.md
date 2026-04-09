@@ -221,10 +221,11 @@ Simple animations and effects used were learned through course materials such as
 - **Outcome** - Styles are now applied correctly.
 
 ## Credits
+All custom HTML and CSS were written by me (Thanush Sutharsan). 
 
 ### Code
 
-- [Bootstrap v5.3](https://getbootstrap.com) - used for the responsive layout components such as the navbar and carousel, with significant customisation.
+- [Bootstrap v5.3](https://getbootstrap.com) - used for the responsive layout components such as the navbar, carousel and gallery with significant customisation.
 
 - [Font Awesome](https://fontawesome.com/) - used for the social media icons in the footer with customisation to the color .
 
