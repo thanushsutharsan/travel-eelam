@@ -245,15 +245,22 @@ Each page of the live site was tested across different screen sizes and browsers
 |Footer| All social links & copyright info visible and functional displayed at the bottom| FAIL| Set page height 100vh to ensure the footer stays at the bottom| PASS|
 
 
-
-
-
-### CSS Override Issue
+### CSS Override Issue -(During Development)
 
 - **Issue** - Custom styles were not displaying correctly.
 - **Cause**- Bootstrap CSS overriding Custom CSS.
 - **Fix** - Re-order the stylesheets from Bootstrap being at the top and custom css being at the. bottom.
 - **Outcome** - Styles are now applied correctly.
+
+### Responsiveness Testing
+
+To check if the website is responsive, the tool [Am I Responsive?](https://amiresponsive.co.uk/) was used. The website was tested on multiple devices with various screen sizes such as mobile, tablet and desktop. 
+
+The layout, images and text all adapt correctly to different screen sizes without overlapping and breaking.
+
+![Responsiveness on devices](assets/images/testing/responsiveness.png)
+
+
 
 ## Credits
 All custom HTML and CSS were written by me (Thanush Sutharsan). 
