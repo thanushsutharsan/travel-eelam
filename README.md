@@ -154,6 +154,16 @@ The key concept of the business goal is to create an awareness to the Tamil comm
 3. Clear placements of buttons, carousel and form for useability.
 4. Clear and easy navigation.
 
+#### UX Design Reflection
+Some adjustments were made to the original wireframe during development to improve usability and visual presentation :
+- **Gallery Page** : The layout was adjusted to accomodate image sizes and ensures the page looks balanced and visually appealing.
+Instead of using a flexbox layout approach, Bootstrap classes were used to define layout and spacing across all devices to ensure responsiveness.
+
+- **Signup Page** : The background box behind the text has been removed to ensure that there was no distracting elements with the background image.
+
+This changes ensured the final website maintained a clear structure, consistent style  and user friendly experience.
+
+
 ### V. Surface
 
 #### 1. Colors Scheme
