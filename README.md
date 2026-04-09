@@ -14,8 +14,17 @@ This website is a travel showcase and guide of my roots, inspired by where my pa
 
 ## How to View the Project
 
-- This website is currently under development. The deployed version will be continue to be updated as features are implemented.
+- The site is now live for preview.
+
   - [View the deployed website HERE](https://thanushsutharsan.github.io/travel-eelam/)
+
+  ### Deployment Procedure
+  - This project was deployed using GitHub Pages
+  -  Steps taken:
+     - 1. Go to repository settings
+     - 2. Select pages
+     - 3.  Choose Main Branch
+     - 4. Save to generate live site
 
 ## User Experience Design (UXD)
 
