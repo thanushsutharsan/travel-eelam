@@ -15,7 +15,7 @@ body {
 
 /* Navabr styles */
 
-/* Navbar active element */
+/* Navbar active element, to improve user naviagtion awareness */
 .navbar .active {
   border-bottom: 3px solid #ff0000;
 }
@@ -27,7 +27,8 @@ body {
 
 /* Intro section */
 
-/* Typewriter effect */
+/* Creates a typwritter animation effects 
+using width and curser animation*/
 .typewriter {
   display: flex;
   justify-content: center;
@@ -74,7 +75,8 @@ body {
   padding: 0 20px;
 }
 
-/* Intro backdrop */
+/* Intro backdrop-- adds a contratsing background to separate the intro section from 
+the rest of the page ---*/
 
 #bk-drop {
   background-color: #ffa500;
@@ -87,7 +89,8 @@ body {
   color: white;
 }
 
-/* Carousel images */
+/* Ensures carousel images are properly displayed across 
+all devices with a consistent height */
 
 .carousel-item img {
   height: 400px;
@@ -96,10 +99,10 @@ body {
   padding: 15px 15px;
 }
 
-/*  Custom Carousel caption background */
+/*  Custom Carousel caption-text background */
 .carousel-caption {
   color: #333;
-  padding: 0.5rem;
+  padding: 0.5rem; 
 }
 
 /* Custom background for carousel captions */
@@ -112,16 +115,16 @@ body {
 
 /* Custom styles for the CTA buttons */
 .space-btwn {
-  margin: 0 10px;
-  padding: 10px 15px;
+  margin: 0 10px; /* Adds horizontal spacing between the buttons */
+  padding: 10px 15px; /* Adds padding for better clickability */
 }
 
 /* Gallery section */
 
 /* Gallery heading styles */
 .gallery-of-eelam {
-  text-align: center; 
-  text-transform: capitalize;
+  text-align: center; /* Centers the heading */
+  text-transform: capitalize; /* Capitalizes the first letter of each word */
   color: #ffa500;
   margin-top: 20px;
 }
