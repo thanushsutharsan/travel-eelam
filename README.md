@@ -222,6 +222,16 @@ Simple animations and effects used were learned through course materials such as
 
 ## Testing
 
+Manual testing was carried out to ensure that the website meets the requirements for:
+- Functionality
+- Usability
+- Responsiveness
+- Accessability
+
+Each page of the live site was tested across different screen sizes and browsers to ensure consistency and reliability.
+
+
+
 ### CSS Override Issue
 
 - **Issue** - Custom styles were not displaying correctly.
