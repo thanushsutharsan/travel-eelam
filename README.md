@@ -230,6 +230,17 @@ Manual testing was carried out to ensure that the website meets the requirements
 
 Each page of the live site was tested across different screen sizes and browsers to ensure consistency and reliability.
 
+### Manual Testing Table
+| Test Case | Expected Results | Initial Outcome | Fix | Fianl Outcome|
+|-----------|------------------|-----------------|-----|--------------|
+|Navigation menu links| All links navigate to correct pages| PASS| N/A| PASS|
+|External links| Opens a new tab | PASS| N/A| PASS|
+|Gallery Layout| Images display without any distortion| PASS| N/A| PASS|
+|Sign-up Form Input|Users can enter details correctly| PASS| N/A| PASS|
+|CTA Buttons| Directs users to correct pages| PASS| N/A| PASS|
+|Images| No Pixelation or stretching and loads quickly| FAIL|-|-|-|
+
+
 
 
 ### CSS Override Issue
