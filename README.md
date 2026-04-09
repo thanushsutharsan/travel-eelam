@@ -242,7 +242,7 @@ Each page of the live site was tested across different screen sizes and browsers
 |ALT Text| Visible alt text when images fail to load| Fail|Change color of alt text|PASS|
 |Text readability| High contrast and readable content| PASS| N/A| PASS|
 |Bootstrap Components| Carousel and Gallery Layout function correctly|PASS| N/A| PASS|
-|Footer| All social links & copyright info visible and functional displayed at the bottom| FAIL|-|-|
+|Footer| All social links & copyright info visible and functional displayed at the bottom| FAIL| Set page height 100vh to ensure the footer stays at the bottom| PASS|
 
 
 
