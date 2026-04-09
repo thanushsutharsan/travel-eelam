@@ -238,7 +238,9 @@ Each page of the live site was tested across different screen sizes and browsers
 |Gallery Layout| Images display without any distortion| PASS| N/A| PASS|
 |Sign-up Form Input|Users can enter details correctly| PASS| N/A| PASS|
 |CTA Buttons| Directs users to correct pages| PASS| N/A| PASS|
-|Images| No Pixelation or stretching and loads quickly| FAIL|-|-|-|
+|Images| No Pixelation or stretching and loads quickly| FAIL|Compressed images|PASS|
+|ALT Text| Visible alt text when images fail to load| Fail|-|-
+
 
 
 

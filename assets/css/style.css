@@ -12,6 +12,10 @@ body {
   width: 100px;
   max-width: 75%;
 }
+/* Hero image ALT text color */
+#text-color {
+  color: white;
+}
 
 /* Navabr styles */
 
