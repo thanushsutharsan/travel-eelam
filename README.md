@@ -233,8 +233,9 @@ Simple animations and effects used were learned through course materials such as
 #### Fonts
 
 ---
+The fonts that are used imported from other sources are linked below:
 
--
+https://fonts.google.com/specimen/Lexend
 
 #### Images
 
