@@ -168,7 +168,7 @@ This changes ensured the final website maintained a clear structure, consistent 
 
 #### 1. Colors Scheme
 
-![Color-Palette](assets/images/travel-eelam-color-palette.png)
+![Color-Palette](assets/images/)
 
 The color scheme for my website was chosen from a color palette using [Coolors](https://coolors.co/f5f5f5-7a1a1a-ff0000-ffa500).
 Throughout my site, I will maintain a consistent and visually appealing color scheme. The colors reflect the warmth and culture of Tamil Eelam.
