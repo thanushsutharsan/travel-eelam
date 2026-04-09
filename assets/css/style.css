@@ -1,181 +1,174 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 body {
-    font-family: 'Lexend', sans-serif;
-    background-color: #7A1A1A;
-    color: #333;
+  font-family: "Lexend", sans-serif;
+  background-color: #7a1a1a;
+  color: #333;
 }
 
 /* Logo */
 #mainlogo {
-    width: 100px;
-    max-width: 75%;
+  width: 100px;
+  max-width: 75%;
 }
 
 /* Navabr styles */
 
 /* Navbar active element */
 .navbar .active {
-    border-bottom: 3px solid #FF0000;
+  border-bottom: 3px solid #ff0000;
 }
 
 /* Hover effect for the navbar */
 #menu .nav-link:hover {
-    border-bottom: 3px solid #FFA500;
+  border-bottom: 3px solid #ffa500;
 }
 
 /* Intro section */
 
 /* Typewriter effect */
 .typewriter {
-    display: flex;
-    justify-content: center;
-    margin-top: 0;
-
-
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
 }
 
 .typewriter h1 {
-    text-align: center;
-    padding: 20px 10px;
-    font-size: 1.5rem;
-    margin-inline: 0;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 1px solid black;
-    animation: typing 3s steps(22), forwards, blink 1s step-end infinite;
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 1.5rem;
+  margin-inline: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 1px solid black;
+  animation:
+    typing 3s steps(22),
+    forwards,
+    blink 1s step-end infinite;
 }
 
 /* Typing animation */
 @keyframes typing {
-    from {
-        width: 0;
-    }
+  from {
+    width: 0;
+  }
 
-    to {
-        width: 100%;
-    }
+  to {
+    width: 100%;
+  }
 }
 
 /* Blinking cursor animation */
 @keyframes blink {
-    50% {
-        border-color: transparent;
-    }
+  50% {
+    border-color: transparent;
+  }
 }
 
 /* Intro subtext */
 .intro-sub-text {
-    text-align: center;
-    font-size: 1rem;
-    margin-top: 20px;
-    padding: 0 20px;
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 20px;
+  padding: 0 20px;
 }
 
 /* Intro backdrop */
 
 #bk-drop {
-    background-color: #FFA500;
-    width: 100%;
+  background-color: #ffa500;
+  width: 100%;
 }
 
 /* Featured section */
 
 #featured {
-     color: white;
+  color: white;
 }
 
 /* Carousel images */
 
 .carousel-item img {
-
-     height: 400px;
-     object-fit: cover;
-     border-radius: 20px;
-     padding: 15px 15px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 20px;
+  padding: 15px 15px;
 }
 
 /*  Custom Carousel caption background */
 .carousel-caption {
- color: #333; 
- padding: 0.5rem;
-
+  color: #333;
+  padding: 0.5rem;
 }
 
 /* Custom background for carousel captions */
 
 .carousel-caption-background {
-    background-color: rgba(255, 249, 249, 0.793);
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 2); 
+  background-color: rgba(255, 249, 249, 0.793);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
 }
 
 /* Custom styles for the CTA buttons */
 .space-btwn {
-    margin: 0 10px;
-    Padding: 10px 15px;
-
+  margin: 0 10px;
+  padding: 10px 15px;
 }
 
 /* Gallery section */
- 
+
 /* Gallery heading styles */
 .gallery-of-eelam {
-    text-align: center;
-    text-transform: capitalize;
-    color: #FFA500;
-    margin-top: 20px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffa500;
+  margin-top: 20px;
 }
 
 /* Sign-up section*/
 .text-color {
-    color: whitesmoke
+  color: whitesmoke;
 }
 
 #signup-form {
-   
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-    max-width: 400px;
-    margin: 0 auto;
-    
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
 }
 .text-input {
-    background: transparent;
-    color: #fafafa;
-    width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-    padding: 0 5px;
+  background: transparent;
+  color: #fafafa;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid #fafafa;
+  border-radius: 2px;
+  padding: 0 5px;
 }
 
 .radio-input {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
 }
 .btn-signup {
-   margin-top: 20px;
-   padding: 5px 20px;
-   font-size: 100%;
-   background-color: #FFA500;
-   border-radius: 7px;
-   
+  margin-top: 20px;
+  padding: 5px 20px;
+  font-size: 100%;
+  background-color: #ffa500;
+  border-radius: 7px;
 }
 
 /* Custom Footer styles */
 
 footer li {
-    list-style: none;
-    display: inline-block;
-    margin-right: 20px;
-    padding: 1rem;
-    font-size: x-large;  
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+  padding: 1rem;
+  font-size: x-large;
 }
-
-
