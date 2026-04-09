@@ -357,3 +357,22 @@ Simple animations and effects used were learned through course materials such as
 - Creator: Original creator on TikTok @shanjixr
 - Source: http://vm.tiktok.com/ZNRX4kgva/
 - Usage: Educational Purposes Only
+
+---
+
+16. Close up of traditional lamp
+
+- Creator: Lara Jameson 
+- Source :http://www.pexels.com/photo/close-up-of-traditional-tableware-for-ceremony-8887303/
+- License: Pexels License (free to use, no attribution required)
+
+---
+17. Karthikyai Povu (Art from Instagram)
+- Creator: Illustration by Keera Ratnam (@wavesofcolour on Instagram)
+- Source: http://www.tamilguardian.com/content/searching-security
+- Usage: Educational purposes only
+
+
+
+
+
