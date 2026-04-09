@@ -261,7 +261,13 @@ The layout, images and text all adapt correctly to different screen sizes withou
 ![Responsiveness on devices](assets/images/testing/responsiveness.png)
 
 
+### Deployment Testing
 
+The deployed website was tested using GitHub pages to ensure it matches development version:
+- All pages load correctly on the live site 
+- Navigation works across all pages
+- No visual differences between local and deployed versions
+- All features such as carousel, CTA buttons and forms functions well as expected.
 ## Credits
 All custom HTML and CSS were written by me (Thanush Sutharsan). 
 
