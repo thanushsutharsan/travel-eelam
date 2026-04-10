@@ -394,6 +394,22 @@ All internal and external links were tested manually:
 ![CSS Validation](assets/images/testing/css-validation.png)
 
 
+## File Structure
++ Travel-eelam
+  + assets
+    + css 
+      + style.css
+  + favicon
+  + images
+    + testing
+  + wireframes 
+  + gallery.html
+  + index.html
+  + README.md
+  + signup.html
+
+
+
 
 
 
