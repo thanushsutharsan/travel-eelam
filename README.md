@@ -430,6 +430,8 @@ All custom HTML and CSS were written by me (Thanush Sutharsan).
 
 - [Font Awesome](https://fontawesome.com/) - used for the social media icons in the footer with customisation to the color .
 
+- [Formspree](https://formspree.com/) - used for the forms data logging for forms.
+
 ### Media
 
 #### Fonts
