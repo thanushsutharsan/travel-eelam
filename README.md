@@ -292,6 +292,31 @@ All internal and external links were tested manually:
 - Navigation between pages works correctly as intended
 - External links opens in a new tab as in when required
 
+### Code Validation & Clean-up
+
+- All unused and commented out codes were removed before deployment
+- All HTML and CSS files were validated with no errors through [W3C HTML validator](https://validator.w3.org) & [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
+
+**Home HTML Validation**
+
+![Home HTML Validation](assets/images/testing/html-home-validation.png)
+
+**Gallery HTML Validation**
+
+![Gallery HTML Validation](assets/images/testing/html-gallery-validation.png)
+
+**Signup HTML Validation**
+ 
+![Signup HTML Validation](assets/images/testing/html-signup-validation.png)
+
+**CSS Validation**
+
+![CSS Validation](assets/images/testing/css-validation.png)
+
+
+
+
+
 
 ## Credits
 All custom HTML and CSS were written by me (Thanush Sutharsan). 
