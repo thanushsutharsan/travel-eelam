@@ -268,6 +268,23 @@ The deployed website was tested using GitHub pages to ensure it matches developm
 - Navigation works across all pages
 - No visual differences between local and deployed versions
 - All features such as carousel, CTA buttons and forms functions well as expected.
+
+#### Local Host and GitHub Comparison
+
+**HOME**
+
+![Home](assets/images/testing/home-sideby-side.png)
+
+**GALLERY**
+
+![Gallery](assets/images/testing/gallery-sideby-side.png)
+
+**SIGNUP**
+
+![Signup](assets/images/testing/signup-sideby-side.png)
+
+The screenshots above show the live deployed website on GitHub Pages (on the right), confirming that it matches the local host saved locally(on the left).
+
 ## Credits
 All custom HTML and CSS were written by me (Thanush Sutharsan). 
 
