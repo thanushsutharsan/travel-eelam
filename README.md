@@ -285,6 +285,14 @@ The deployed website was tested using GitHub pages to ensure it matches developm
 
 The screenshots above show the live deployed website on GitHub Pages (on the right), confirming that it matches the local host saved locally(on the left).
 
+### Link Testing
+
+All internal and external links were tested manually:
+- No broken links were found
+- Navigation between pages works correctly as intended
+- External links opens in a new tab as in when required
+
+
 ## Credits
 All custom HTML and CSS were written by me (Thanush Sutharsan). 
 
