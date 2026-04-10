@@ -36,7 +36,7 @@ This website is designed to provide users with a simple and visual representatio
 
 The purpose of my design is to allow users to easily navigate through the website and gain insights into Tamil Eelam heritage while maintaining a clear and concise visual layout.
 
-### User Stories
+### User Stories (Planning section)
 
 #### First-Time Visitor
 
@@ -55,6 +55,71 @@ The purpose of my design is to allow users to easily navigate through the websit
 - As a frequent visitor, I want to sign up to the website so tha I stay updated with Travel Eelam.
 - As a frequent visitor, I want see consistent layout across all pages so the website easy to navigate around.
 - As a frequent visitor, I want to quickly navigate between pages so that I can use the site efficiently.
+
+### User Stories (Evidence section)
+The screenshots below show evidence that the user stories from the planning section have been completed in the final website. They are in the same order as  the planning section so it's easy to match each one.
+#
+#### First-Time Visitor
+
+- Introduction section
+    - This supports the user story by introducing Tamil Eelam Culture through the main heading and introductory text.
+
+    ![Screenshot of intro section](assets/images/testing/intro-section.png)
+
+
+- Featured Landmarks
+    - This supports the user story where visitors can view important landmarks in Tamil Eelam, showing multiple fetaured locations in a structured layout.
+
+    ![Screenshot of Landmarks](assets/images/testing/featured-landmarks.png)
+
+- Explore Gallery CTA Button
+    - This supports the user story where the users can easily access the gallery through a clear CTA button.
+
+    ![Screenshot of CTA Buttons](assets/images/testing/cta-buttons.png)
+
+#
+
+#### Returning Visitor
+
+- Food and Culture Gallery
+    - This supports the user story by allowing them to browse both food and culture content in one place.
+
+     ![Screenshot of Gallery](assets/images/testing/gallery.png)
+
+
+- Social Media Links
+   - This supports the user story where returning vistors can access social media for more updates and content.
+
+   ![Screenshot of Social Media](assets/images/testing/footer-with-social-links.png)
+
+
+- Sign up button
+   - This supports the user story by allowing returning users to easily find the sign-up option.
+
+    ![Screenshot of Sign-up Button](assets/images/testing/sign-up-button.png)
+
+#
+
+#### Frequent visitor
+ - Sign-up Form
+   - This supports the user story to allow frequent visitors to sign up and stay updated with Travel Eelam.
+
+   ![Screenshot of Sign-up-Form](assets/images/testing/signup-form.png)
+
+- Consistent Layout Across Pages
+   - This supports the user story as it demonstrates consistent layout design with the navbar and footer across all pages ensuring a smooth user experience.
+   
+   ![Screenshot of Home Layout](assets/images/testing/home-layout.png)
+
+   ![Screenshot of Gallery Layout](assets/images/testing/gallery-layout.png)
+
+   ![Screenshot of Sign-up Layout](assets/images/testing/signup-layout.png)
+
+
+- Navigation bar
+   - This supports the user story by providing a clear navigation for efficient browsing.
+
+   ![Screenshot of Navbar ](assets/images/testing/nav-bar.png)
 
 ### I. Strategy
 
