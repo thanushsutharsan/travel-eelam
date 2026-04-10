@@ -372,6 +372,13 @@ All internal and external links were tested manually:
 - Navigation between pages works correctly as intended
 - External links opens in a new tab as in when required
 
+### Accessibility Testing
+
+The website was tested using Google Lighthouse in Chrome DevTools and achieved high scores in both performance and accessibility, indicating efficient loading times. This screenshot below stands by as evidence for testing.
+
+![Screenshot of Accessibility Test](assets/images/testing/accessability.png)
+
+
 ### Code Validation & Clean-up
 
 - All unused and commented out codes were removed before deployment
