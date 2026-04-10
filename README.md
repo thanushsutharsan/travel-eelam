@@ -12,6 +12,21 @@ This website is a travel showcase and guide of my roots, inspired by where my pa
 - VsCode
 - Bootstrap
 
+### Version Control
+
+Git was used throughout the project to keep track to changes and manage development.
+
+I tried to follow a structured commit format approach where possible, using:
+- feat: for new features
+- fix for bug fixes
+- style: for design changes
+- docs: for documentation updates
+
+However, not all commits followed this format, as some were written more simply using commits like "add", "update" and "fix".  I still made sure all my commits were clear and consise  so it was easy to understand what changes were made.
+
+Using version control helped me stay organised during development, track my progress and go back to previous versions.
+
+
 ## How to View the Project
 
 - The site is now live for preview.
