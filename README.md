@@ -384,7 +384,20 @@ All internal and external links were tested manually:
 
 The website was tested using Google Lighthouse in Chrome DevTools and achieved high scores in both performance and accessibility, indicating efficient loading times. This screenshot below stands by as evidence for testing.
 
-![Screenshot of Accessibility Test](assets/images/testing/accessability.png)
+#### HOME SECTION
+
+![Screenshot of Home Accessibility Test](assets/images/testing/access-test-home.png)
+
+
+
+#### GALLERY SECTION
+
+![Screenshot of Gallery Accessibility Test](assets/images/testing/access-test-gallery.png)
+
+#### SIGNUP SECTION
+
+![Screenshot of Signup Accessibility Test](assets/images/testing/access-test-signup.png)
+
 
 ### Code Validation & Clean-up
 
