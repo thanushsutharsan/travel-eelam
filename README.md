@@ -413,10 +413,10 @@ The website was tested using Google Lighthouse in Chrome DevTools and achieved h
   - assets
     - css
       - style.css
-  - favicon
-  - images
-    - testing
-  - wireframes
+    - favicon
+    - images
+      - testing
+    - wireframes
   - gallery.html
   - index.html
   - README.md
