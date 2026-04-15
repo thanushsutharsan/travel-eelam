@@ -166,7 +166,7 @@ The key concept of the business goal is to create an awareness to the Tamil comm
 #### MVP -(Minimum Viable Product)
 
 - Must have an introduction to the website with a carousel of images showing top featured images and the homepage should have a hero image with a navbar at the top. (Home)
-- Must have a gallery page showcasing the culture, food and landmarks using FlexBox (at minimum of 8 images) this will be the second nav-bar on the top after home. (Gallery)
+- Must have a gallery page showcasing the culture, food and landmarks using Bootstrap Framework (at minimum of 8 images) this will be the second nav-bar on the top after home. (Gallery)
 - Must have a sign-up page using a simple form and this should be linked to the third navbar on the top.(Sign-up)
 - Must have a footer at the bottom including social links. (Footer)
 
@@ -327,7 +327,7 @@ Each page of the live site was tested across different screen sizes and browsers
 | Sign-up Form Input    | Users can enter details correctly                                                | PASS            | N/A                                                            | PASS          |
 | CTA Buttons           | Directs users to correct pages                                                   | PASS            | N/A                                                            | PASS          |
 | Images                | No Pixelation or stretching and loads quickly                                    | FAIL            | Compressed images                                              | PASS          |
-| ALT Text              | Visible alt text when images fail to load                                        | Fail            | Change color of alt text                                       | PASS          |
+| ALT Text              | Visible alt text when images fail to load                                        | FAIL            | Change color of alt text                                       | PASS          |
 | Text readability      | High contrast and readable content                                               | PASS            | N/A                                                            | PASS          |
 | Bootstrap Components  | Carousel and Gallery Layout function correctly                                   | PASS            | N/A                                                            | PASS          |
 | Footer                | All social links & copyright info visible and functional displayed at the bottom | FAIL            | Set page height 100vh to ensure the footer stays at the bottom | PASS          |
