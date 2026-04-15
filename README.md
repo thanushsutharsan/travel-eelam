@@ -340,12 +340,42 @@ Each page of the live site was tested across different screen sizes and browsers
 - **Outcome** - Styles are now applied correctly.
 
 ### Responsiveness Testing
+To check responsiveness, the website was manually tested on a mobile phone, tablet and a laptop by taking screenshots on each device. This helped confirm that the layout, images and text display correctly and consistently across different screen sizes.
 
-To check if the website is responsive, the tool [Am I Responsive?](https://amiresponsive.co.uk/) was used. The website was tested on multiple devices with various screen sizes such as mobile, tablet and desktop.
+**MOBILE - ALL SECTIONS**
+
+
+![Responsiveness on mobile phone ](assets/images/testing/mobile-responsive.png)
+
+---
+**TABLET - ALL SECTIONS**
+
+
+![Responsiveness on Tablet](assets/images/testing/tablet-responsive.png)
+--
+
+**LAPTOP - Home Section**
+
+![Responsiveness on devices](assets/images/testing/laptop-repsonsive-home.png)
+
+---
+
+**LAPTOP - Gallery Section**
+
+
+![Responsiveness on devices](assets/images/testing/laptop-responsive-gal.png)
+
+---
+**LAPTOP-  Signup Section**
+
+![Responsiveness on devices](assets/images/testing/laptop-responsive-signup.png)
+
+
+To confirm that the website is responsive, the tool [Am I Responsive?](https://amiresponsive.co.uk/) was used. The website was tested on multiple devices with various screen sizes such as mobile, tablet and desktop.
 
 The layout, images and text all adapt correctly to different screen sizes without overlapping and breaking.
 
-![Responsiveness on devices](assets/images/testing/responsiveness.png)
+![Responsiveness on all devices on Am I Responsive?](assets/images/testing/responsiveness.png)
 
 ### Deployment Testing
 
