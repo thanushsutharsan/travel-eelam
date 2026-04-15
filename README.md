@@ -332,6 +332,35 @@ Each page of the live site was tested across different screen sizes and browsers
 | Bootstrap Components  | Carousel and Gallery Layout function correctly                                   | PASS            | N/A                                                            | PASS          |
 | Footer                | All social links & copyright info visible and functional displayed at the bottom | FAIL            | Set page height 100vh to ensure the footer stays at the bottom | PASS          |
 
+### Form Testing
+
+I tested the signup page across multiple devices, including mobile phone, tablet and laptop to ensure all imput fields and buttons worked correctly. This helped confirm that the form is fully functional and user friendly on all screen sizes and is able to collect data smoothly.
+
+
+**MOBILE**
+
+![Mobile Forms Testing](assets/images/testing/mobile-form-test.png)
+#
+**TABLET**
+
+![Tablet Forms Testing](assets/images/testing/tablet-form-test.png)
+
+#
+
+**LAPTOP**
+
+![Laptop Forms Testing](assets/images/testing/laptop-form-test.png)
+
+![Laptop Forms Testing of submission](assets/images/testing/laptop-form-test.1.png)
+
+#
+
+**FORMS-SPREE DATA**
+
+![Data Forms Testing](assets/images/testing/forms-data.png)
+
+#
+
 ### CSS Override Issue -(During Development)
 
 - **Issue** - Custom styles were not displaying correctly.
