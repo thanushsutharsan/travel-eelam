@@ -495,10 +495,12 @@ The website was tested using Google Lighthouse in Chrome DevTools and achieved h
   - signup.html
 
 ## Credits
-
-All custom HTML and CSS were written by me (Thanush Sutharsan).
+### Design & Planning
+Wireframes were created using [Balsamiq](https://balsamiq.com) to plan the layout, userflows and content structure. This design and planning phase helped establish a clear visual mockup of my website and how it should be layout out.
 
 ### Code
+
+All custom HTML and CSS were written by me (Thanush Sutharsan).
 
 - [Bootstrap v5.3](https://getbootstrap.com) - used for the responsive layout components such as the navbar, carousel and gallery with significant customisation.
 
@@ -516,9 +518,14 @@ The fonts that are used imported from other sources are linked below:
 
 https://fonts.google.com/specimen/Lexend
 
-#### Images
+#### Images & Optimization Tools
+Here are the images and optimization tools that I have used throughout the project.
 
 ---
+[TinyPNG](https://tinypng.com) - Image Compressor - was used to compress the image files down so that images load quicker for better user experience.
+
+[Favicon.io](https://favicon.io)- Favicon Generator- was used to generate favicon for all devices.
+#
 
 1.  Great Living Chola Temples Under Blue Sky.
 
